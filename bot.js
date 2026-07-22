@@ -19,7 +19,7 @@ app.listen(PORT, () => {
 // 2. CẤU HÌNH BOT MINECRAFT
 // ==========================================
 const CONFIG = {
-  host: 'galaxy-mu.aternos.me', // Tên miền server
+  host: '185.107.193.125', // Tên miền server
   port: 49753,              // Port riêng của server
   username: 'Bot_Onl247',  // Tên nhân vật
   version: false            // Tự động nhận diện phiên bản game
