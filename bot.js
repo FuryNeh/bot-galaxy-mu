@@ -22,7 +22,7 @@ const CONFIG = {
   host: '185.107.193.125', // Tên miền server
   port: 49753,              // Port riêng của server
   username: 'B0tOnl247',  // Tên nhân vật
-  version: 1.21.11            // Tự động nhận diện phiên bản game
+  version: '1.21.11'            // Tự động nhận diện phiên bản game
 };
 
 // Hàm điều khiển bot đi hình tròn chống AFK
