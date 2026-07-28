@@ -11,7 +11,7 @@ app.listen(PORT, () => console.log(`[WEB] Server lắng nghe tại port ${PORT}`
 const CONFIG = {
   host: 'GALAXY-MU.aternos.me',
   port: 49753, // Nhớ cập nhật Port dynamic của Aternos mỗi khi mở lại server!
-  username: 'Newbie-b0T',
+  username: 'Jean120',
   version: '1.21.11' // Chỉ định rõ phiên bản thay vì để 'false'
 };
 
