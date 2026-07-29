@@ -17,7 +17,7 @@ app.listen(PORT, () => {
 const CONFIG = {
   host: 'GALAXY-MU.aternos.me',
   port: 49753,
-  username: '',
+  username: 'HaLand3001',
   version: false
 };
 
